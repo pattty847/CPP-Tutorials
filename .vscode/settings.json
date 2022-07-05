@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "Procfile": "raw",
+        "iostream": "cpp",
+        "string": "cpp",
+        "limits": "cpp",
+        "sstream": "cpp",
+        "cstdlib": "cpp",
+        "numeric": "cpp",
+        "ctime": "cpp",
+        "cmath": "cpp",
+        "string_view": "cpp"
+    }
+}
